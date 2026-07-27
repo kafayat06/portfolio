@@ -1,4 +1,4 @@
-# Kifayyah Abdulwahab — Coding Tutor Portfolio
+# Kafayat Abdulwahab — Coding Tutor Portfolio
 
 A simple, single-page portfolio site built with plain HTML, CSS, and a touch of JS — no build tools required.
 
